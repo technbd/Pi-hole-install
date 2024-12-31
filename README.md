@@ -409,6 +409,20 @@ Complete!
 
 
 
+_To start and stop the Pi-hole service:_
+
+```
+systemctl start pihole-FTL
+systemctl status pihole-FTL
+
+systemctl stop pihole-FTL
+systemctl restart pihole-FTL
+```
+
+
+
+
+
 ![alt text](./assets/image.png)
 
 ![alt text](./assets/image-1.png)
